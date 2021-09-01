@@ -3,3 +3,4 @@ wifi
 bluetooth
 camera
 GPIO
+USB-c

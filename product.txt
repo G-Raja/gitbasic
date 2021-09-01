@@ -2,3 +2,4 @@
 wifi
 bluetooth
 camera
+GPIO

@@ -1,0 +1,4 @@
+# Product:rpi
+wifi
+bluetooth
+camera
